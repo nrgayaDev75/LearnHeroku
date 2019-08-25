@@ -1,3 +1,4 @@
 # LearnHeroku - Training
 
-Date - 25-Aug-2019
+Last updated: - Date - 25-Aug-2019
+Author: Gayathri
