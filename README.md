@@ -1,1 +1,1 @@
-# LearnHeroku
+# LearnHeroku - Training
